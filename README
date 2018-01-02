@@ -1,6 +1,7 @@
 This repo provides an example use case of webpack and suggests a organizational scheme for a web application.
 
 It will illustrate
+
 * how to configure webpack to bundle a variety of file types: js, css, images, etc.
 * how to include an image asset
 * how to include an npm package used by your own code
